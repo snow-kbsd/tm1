@@ -22,6 +22,6 @@
         <sys_update_name>ua_table_licensing_config_14bd0cf26f05120005c00d9c5d3ee411</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2016-01-22 20:46:19</sys_updated_on>
-        <table display_value="table4" name="x_snc_tm1_table1">1ebb40b6c3411200ca27ff9c02d3ae5e</table>
+        <table display_value="table3" name="x_snc_tm1_table1">1ebb40b6c3411200ca27ff9c02d3ae5e</table>
     </ua_table_licensing_config>
 </record_update>
