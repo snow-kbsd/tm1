@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="table5" max_length="40" name="x_snc_tm1_table1" type="collection"/>
+    <element label="table6" max_length="40" name="x_snc_tm1_table1" type="collection"/>
 </database>
