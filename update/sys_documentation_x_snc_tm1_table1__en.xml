@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2016-01-22 20:37:53</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>d1cb0cb6c3411200ca27ff9c02d3aeff</sys_id>
             <sys_mod_count>10</sys_mod_count>
             <sys_name>table8</sys_name>

@@ -15,7 +15,7 @@ remote2
         <sys_class_name>sys_ui_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-01-20 20:33:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5aa731826f41120005c00d9c5d3ee4b6</sys_id>
         <sys_mod_count>26</sys_mod_count>
         <sys_name>page2</sys_name>
