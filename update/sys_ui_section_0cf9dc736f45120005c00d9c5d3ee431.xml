@@ -5,97 +5,83 @@
             <element>sys_created_on</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-01-26 00:48:50</sys_created_on>
-            <sys_id>2af1ec376f45120005c00d9c5d3ee493</sys_id>
+            <sys_created_on>2016-01-26 00:51:51</sys_created_on>
+            <sys_id>fea2a0776f45120005c00d9c5d3ee4bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_tm1_table1" sys_domain="global" view="Default view">0cf9dc736f45120005c00d9c5d3ee431</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-01-26 00:48:50</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>test</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-01-26 00:48:50</sys_created_on>
-            <sys_id>6af1ec376f45120005c00d9c5d3ee493</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_tm1_table1" sys_domain="global" view="Default view">0cf9dc736f45120005c00d9c5d3ee431</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-01-26 00:48:50</sys_updated_on>
+            <sys_updated_on>2016-01-26 00:51:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_on</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-01-26 00:48:50</sys_created_on>
-            <sys_id>baf1ec376f45120005c00d9c5d3ee493</sys_id>
+            <sys_created_on>2016-01-26 00:51:51</sys_created_on>
+            <sys_id>32a2a0776f45120005c00d9c5d3ee4bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_tm1_table1" sys_domain="global" view="Default view">0cf9dc736f45120005c00d9c5d3ee431</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-01-26 00:48:50</sys_updated_on>
+            <sys_updated_on>2016-01-26 00:51:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_by</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-01-26 00:48:50</sys_created_on>
-            <sys_id>faf1ec376f45120005c00d9c5d3ee493</sys_id>
+            <sys_created_on>2016-01-26 00:51:51</sys_created_on>
+            <sys_id>72a2a0776f45120005c00d9c5d3ee4bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_tm1_table1" sys_domain="global" view="Default view">0cf9dc736f45120005c00d9c5d3ee431</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-01-26 00:48:50</sys_updated_on>
+            <sys_updated_on>2016-01-26 00:51:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_mod_count</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-01-26 00:48:50</sys_created_on>
-            <sys_id>3ef1ec376f45120005c00d9c5d3ee493</sys_id>
+            <sys_created_on>2016-01-26 00:51:51</sys_created_on>
+            <sys_id>b2a2a0776f45120005c00d9c5d3ee4bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_tm1_table1" sys_domain="global" view="Default view">0cf9dc736f45120005c00d9c5d3ee431</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-01-26 00:48:50</sys_updated_on>
+            <sys_updated_on>2016-01-26 00:51:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ratings.xml</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-01-26 00:48:50</sys_created_on>
-            <sys_id>7ef1ec376f45120005c00d9c5d3ee493</sys_id>
+            <sys_created_on>2016-01-26 00:51:51</sys_created_on>
+            <sys_id>f2a2a0776f45120005c00d9c5d3ee4bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_tm1_table1" sys_domain="global" view="Default view">0cf9dc736f45120005c00d9c5d3ee431</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-01-26 00:48:50</sys_updated_on>
+            <sys_updated_on>2016-01-26 00:51:51</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_by</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-01-26 00:48:50</sys_created_on>
-            <sys_id>bef1ec376f45120005c00d9c5d3ee493</sys_id>
+            <sys_created_on>2016-01-26 00:51:51</sys_created_on>
+            <sys_id>36a2a0776f45120005c00d9c5d3ee4bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_tm1_table1" sys_domain="global" view="Default view">0cf9dc736f45120005c00d9c5d3ee431</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-01-26 00:48:50</sys_updated_on>
+            <sys_updated_on>2016-01-26 00:51:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
