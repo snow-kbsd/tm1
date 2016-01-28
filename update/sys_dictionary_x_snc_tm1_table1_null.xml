@@ -52,7 +52,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-01-22 20:37:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>d4b345486f15120005c00d9c5d3ee4a4</sys_id>
+        <sys_id>6cd43aa0c3111200ca27ff9c02d3ae43</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_tm1_table1</sys_name>
         <sys_package display_value="tm1" source="x_snc_tm1">0387f1026f41120005c00d9c5d3ee43e</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="tm1">0387f1026f41120005c00d9c5d3ee43e</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_tm1_table1_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-01-26 21:54:40</sys_updated_on>
+        <sys_updated_on>2016-01-28 19:25:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
